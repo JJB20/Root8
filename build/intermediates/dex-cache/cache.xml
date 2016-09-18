@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78166ead5f1793270fb95aff9f878f98331ac6e9">
+        <dex dex="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\pre-dexed\debug\classes-024b3c3c8fbf9fdafc582429d1bd855e9fabb14f.jar" />
+    </item>
+    <item
+        jar="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5f9e5d9a3cadf7329bbbaea6def0fb86d3773a2">
+        <dex dex="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\pre-dexed\debug\classes-03ace763edc8b7770bdadfc27cbe24a1c9aa88f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51740db7999259bcef8a679f349034c760ceb172">
+        <dex dex="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\pre-dexed\debug\classes-73f6d958bd9d3a67fde4a2514aaf8dd43d8adddf.jar" />
+    </item>
+    <item
+        jar="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="312452430a607b39b92221fbed687e458ed9c8c7">
+        <dex dex="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\pre-dexed\debug\classes-446b473e87260018fdbe13c6eafdb04e5e47041b.jar" />
+    </item>
+    <item
+        jar="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9112d15701e2c29945597c234eb28110f3e77ddc">
+        <dex dex="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\pre-dexed\debug\classes-3ced48999390dc4e0b4acbce055f0573b34fd0c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="be03c1ee2c4c731033845ec1846923138dc9e0fa">
+        <dex dex="C:\Users\12sho_000\Dropbox\The Radical Six\2015-2016\Programs\Root8\FtcRobotController\build\intermediates\pre-dexed\debug\classes-a77836b99eaddeb70bc62a42854fd7be886d6841.jar" />
+    </item>
+
+</items>
